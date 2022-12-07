@@ -9,7 +9,7 @@ Changelog
 
 07/12/2022
 
-Updated Normal Sorc File (Better resistances levels 3-16)
+Updated Normal & Hell Sorc Files (Better resistances levels 3-16)
 
 28/08/22
 
