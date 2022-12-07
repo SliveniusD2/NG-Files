@@ -7,6 +7,10 @@ Please make sure that if you have any items in your shared stash you want to kee
 
 Changelog
 
+07/12/2022
+
+Updated Normal Sorc File (Better resistances levels 3-16)
+
 28/08/22
 
 Updated barb file, Normal Sorc stash organised, Hell sorc added (requires tweaking), Zon updated (still missing respec tokens)
