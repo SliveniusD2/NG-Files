@@ -7,6 +7,10 @@ Please make sure that if you have any items in your shared stash you want to kee
 
 Changelog
 
+24/01/2023
+
+Updated Normal Sorc file to include charged items for early game, Hell sorc update soon
+
 07/12/2022
 
 Updated Normal & Hell Sorc Files (Better resistances levels 3-16)
