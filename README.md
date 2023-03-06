@@ -7,6 +7,9 @@ Please make sure that if you have any items in your shared stash you want to kee
 
 Changelog
 
+6/03/2023
+Updated Hell Sorc file to include charged items and be lightning only specced. Hell sin file present (gear setup still needs work)
+
 24/01/2023
 
 Updated Normal Sorc file to include charged items for early game, Hell sorc update soon
