@@ -8,12 +8,15 @@ Please make sure that if you have any items in your shared stash you want to kee
 Changelog
 
 20/03/2023
+
 Added Hell Sin File (finally!), minor tweaks to hell sorc file - removed cta (more juvies).
 
 8/03/2023
+
 Minor tweaks to Hell sorc file - level 31 amulet added, vmagi made eth (oversight by me)
 
 6/03/2023
+
 Updated Hell Sorc file to include charged items and be lightning only specced. Hell sin file present (gear setup still needs work)
 
 24/01/2023
