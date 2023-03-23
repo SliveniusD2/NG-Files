@@ -7,6 +7,10 @@ Please make sure that if you have any items in your shared stash you want to kee
 
 Changelog
 
+23/03/2023
+
+I messed up and overwrote the hell sorc file with sin (fixed now) - Thanks Mekalb for pointing it out, thanks Kano for providing an up to date save file.
+
 20/03/2023
 
 Added Hell Sin File (finally!), minor tweaks to hell sorc file - removed cta (more juvies).
