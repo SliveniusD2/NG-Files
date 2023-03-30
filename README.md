@@ -5,7 +5,7 @@ To use these simply unzip them and then copy your chosen NG+ setup into your D2R
 
 Please make sure that if you have any items in your shared stash you want to keep that you copy the Shared stash file out of the saved directory first.
 
-Massive thanks to Kano, Jymnasium, CMD and Bender for all the ideas, testing and support you guys have put in to make these stashes as good as they are.
+Massive thanks to CMD, Kano, Jymnasium, Mekalb, Lucky and Bender for all the ideas, testing and support you guys have put in to make these stashes as good as they are.
 
 Changelog
 
