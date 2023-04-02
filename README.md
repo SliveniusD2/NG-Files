@@ -10,9 +10,11 @@ Massive thanks to CMD, Kano, Jymnasium, Mekalb, Lucky and Bender for all the ide
 Changelog
 
 02/04/2023
+
 Updated Normal Druid - Thanks Jym and Kano for updating this
 
 30/03/2023
+
 Updated Hell Paladin and Hell Zon, Paladin now more strutured and streamlined, Zon now modernised and good.
 
 23/03/2023
