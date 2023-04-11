@@ -1,7 +1,7 @@
 # NG-Files
 D2R NG+ Shared stash files
 
-IMPORTANT - THE SORC FILES AND PALADIN FILE CURRENTLY HAVE ILLEGAL ITEMS IN THEM - I WILL BE WORKING TO FIX THESE VERY SOON HOWEVER THESE FILES ARE CURRENTLY NOT SPEEDRUN LEGAL
+IMPORTANT - IF YOUR FILES ARE FROM BEFORE 11/04/2023 THEY COULD BE INVALID FOR SPEEDRUNS AS THEY HAD ILLEGAL ITEMS. PLEASE ENSURE YOU ARE USING AN UPDATED FILE.  
 
 To use these simply unzip them and then copy your chosen NG+ setup into your D2R Save Directory (Default Pathway is "User/Saved Games/Diablo II Resurrected")
 
@@ -10,6 +10,10 @@ Please make sure that if you have any items in your shared stash you want to kee
 Massive thanks to CMD, Kano, Jymnasium, Mekalb, Lucky and Bender for all the ideas, testing and support you guys have put in to make these stashes as good as they are.
 
 Changelog
+
+11/04/2023
+
+Fixed illegal items. Added Normal Barb - thanks to Jymnasium for creating this file.
 
 02/04/2023
 
