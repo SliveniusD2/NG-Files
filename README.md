@@ -11,6 +11,10 @@ Massive thanks to CMD, Kano, Jymnasium, Mekalb, Lucky and Bender for all the ide
 
 Changelog
 
+28/04/2023
+
+Updated Normal Barb - thanks Jym. Updated Sin gear to fix early res, maybe something else on another stash
+
 11/04/2023
 
 Fixed illegal items. Added Normal Barb - thanks to Jymnasium for creating this file.
