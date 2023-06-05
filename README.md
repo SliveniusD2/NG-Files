@@ -11,6 +11,12 @@ Massive thanks to CMD, Kano, Jymnasium, Mekalb, Lucky and Bender for all the ide
 
 Changelog
 
+05/06/2023
+
+Updated Normal sorc file - it had lost some gear.
+Added Pacifist Paladin (WHY?)
+Added Pacifist Sorc (WHY?)
+
 28/04/2023
 
 Updated Normal Barb - thanks Jym. Updated Sin gear to fix early res, maybe something else on another stash
