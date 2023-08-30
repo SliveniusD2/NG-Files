@@ -11,6 +11,14 @@ Massive thanks to CMD, Kano, Jymnasium, Mekalb, Lucky and Bender for all the ide
 
 Changelog
 
+30/08/2023
+
+Added Uber Sorc - Thanks Jym for creating this file
+Added Uber Paladin - Thanks Jym again
+Added an in progress Hell Pacifist Sorc (cause I love pain apparently)
+
+Known improvement to be made - Sacred targe in Hell Paladin should not be used, regular Targe is better, haven't yet figured out what I will replace this with.
+
 05/06/2023
 
 Updated Normal sorc file - it had lost some gear.
