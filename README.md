@@ -11,6 +11,12 @@ Massive thanks to CMD, Kano, Jymnasium, Mekalb, Lucky and Bender for all the ide
 
 Changelog
 
+09/09/2023
+
+Added and updated all of the NG+ 1-Uber stashes. Jymnasium has been the driving force behind these and completed and compiled all of these stashes.
+Hell Pacifist Sorc has been "completed", Still serious issues with it and needs some reworking but done for now.
+Replaced Sacred Targe in Hell Paladin with Full Juvies.
+
 30/08/2023
 
 Added Uber Sorc - Thanks Jym for creating this file
