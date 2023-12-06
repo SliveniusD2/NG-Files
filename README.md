@@ -1,7 +1,7 @@
 # NG-Files
 D2R NG+ Shared stash files
 
-IMPORTANT - IF YOUR FILES ARE FROM BEFORE 11/04/2023 THEY COULD BE INVALID FOR SPEEDRUNS AS THEY HAD ILLEGAL ITEMS. PLEASE ENSURE YOU ARE USING AN UPDATED FILE.  
+IMPORTANT - ALMOST ALL STASHES ON HERE ARE NOT VALID FOR A LEGAL SPEEDRUN. Please be patient, I am fixing these and will hopefully have them fixed by 12/12/2023
 
 To use these simply unzip them and then copy your chosen NG+ setup into your D2R Save Directory (Default Pathway is "User/Saved Games/Diablo II Resurrected")
 
