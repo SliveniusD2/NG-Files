@@ -12,7 +12,9 @@ Massive thanks to CMD, Kano, Jymnasium, Mekalb, Lucky and Bender for all the ide
 Changelog
 
 22/12/2023
+
 Complete overhaul of virtually all stashes - almost all of the invalid items have been fixed and some improvements have been made.
+
 YOU REALLY NEED TO DOWNLOAD THE NEW VERSION IF YOU WANT TO COMPETE LEGITIMATELY.
 
 09/09/2023
