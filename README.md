@@ -1,7 +1,7 @@
 # NG-Files
 D2R NG+ Shared stash files
 
-IMPORTANT - ALMOST ALL STASHES ON HERE ARE NOT VALID FOR A LEGAL SPEEDRUN. Please be patient, I am fixing these and will hopefully have them fixed by 12/12/2023
+IMPORTANT - Normal Druid, Hell Druid and Hell Necro Stashes have yet to be updated and are invalid/in the process of being fixed. I have released this early so that people have a chance to practice before Jym's NG+ tourny.
 
 To use these simply unzip them and then copy your chosen NG+ setup into your D2R Save Directory (Default Pathway is "User/Saved Games/Diablo II Resurrected")
 
@@ -10,6 +10,10 @@ Please make sure that if you have any items in your shared stash you want to kee
 Massive thanks to CMD, Kano, Jymnasium, Mekalb, Lucky and Bender for all the ideas, testing and support you guys have put in to make these stashes as good as they are.
 
 Changelog
+
+22/12/2023
+Complete overhaul of virtually all stashes - almost all of the invalid items have been fixed and some improvements have been made.
+YOU REALLY NEED TO DOWNLOAD THE NEW VERSION IF YOU WANT TO COMPETE LEGITIMATELY.
 
 09/09/2023
 
