@@ -11,6 +11,10 @@ Massive thanks to CMD, Kano, Jymnasium, Mekalb, Lucky and Bender for all the ide
 
 Changelog
 
+24/12/2023
+
+PotatoFreaker pointed out I had messed up and replaced Normal zon with hell zon. Fixed now.
+
 23/12/2023
 
 Verified all stashes, made Normal Necro WAAAAY more fun (and memey). Finished Normal/Hell Druid and Hell Necro.
