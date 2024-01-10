@@ -14,6 +14,7 @@ Changelog
 11/01/2024
 
 Added Life tap wand to Uber Paladin file
+
 Changed Eth vmagi to non-eth on Hell & Uber Sorc
 
 24/12/2023
