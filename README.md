@@ -1,7 +1,7 @@
 # NG-Files
 D2R NG+ Shared stash files
 
-IMPORTANT - ALL STASHES ARE LEGIT FINALLY! PLEASE ENSURE YOU ARE USING THE ZIP FILE FROM 23/12/2023. THESE ARE THE OFFICIAL TOURNAMENT LEGAL STASHES FOR JYMNASIUM'S NG+ TOURNAMNET!
+IMPORTANT - ALL STASHES ARE LEGIT FINALLY! PLEASE ENSURE YOU ARE USING THE ZIP FILE FROM 11/01/2024. THESE ARE THE OFFICIAL TOURNAMENT LEGAL STASHES FOR JYMNASIUM'S NG+ TOURNAMNET!
 
 To use these simply unzip them and then copy your chosen NG+ setup into your D2R Save Directory (Default Pathway is "User/Saved Games/Diablo II Resurrected")
 
@@ -10,6 +10,11 @@ Please make sure that if you have any items in your shared stash you want to kee
 Massive thanks to CMD, Kano, Jymnasium, Mekalb, Lucky and Bender for all the ideas, testing and support you guys have put in to make these stashes as good as they are.
 
 Changelog
+
+11/01/2024
+
+Added Life tap wand to Uber Paladin file
+Changed Eth vmagi to non-eth on Hell & Uber Sorc
 
 24/12/2023
 
