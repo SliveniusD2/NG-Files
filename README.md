@@ -11,6 +11,10 @@ Massive thanks to CMD, Kano, Jymnasium, Mekalb, Lucky and Bender for all the ide
 
 Changelog
 
+13/01/2024
+
+Added Respec tokens to Uber Sorc File
+
 11/01/2024
 
 Added Life tap wand to Uber Paladin file
