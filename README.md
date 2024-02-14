@@ -11,6 +11,14 @@ Massive thanks to CMD, Kano, Jymnasium, Mekalb, Lucky and Bender for all the ide
 
 Changelog
 
+14/02/2024
+
+Went through and updated/checked all stashes, found a few issues that were making some items not legitimate.
+
+Small upgrades to Uber Paladin, Norm/Hell/Uber Druid.
+
+Hell/Uber Barb fully revamped. 
+
 13/01/2024
 
 Added Respec tokens to Uber Sorc File
