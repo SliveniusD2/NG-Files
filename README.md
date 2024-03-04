@@ -11,6 +11,12 @@ Massive thanks to CMD, Kano, Jymnasium, Mekalb, Lucky and Bender for all the ide
 
 Changelog
 
+04/03/2024
+
+Re-added Pacifist Sorc Stash - a fun stupid run.
+
+Added Double Swing Variant for Normal Barb. This is what the current WR is set with. Entire stash created by CMD.
+
 14/02/2024
 
 Went through and updated/checked all stashes, found a few issues that were making some items not legitimate.
