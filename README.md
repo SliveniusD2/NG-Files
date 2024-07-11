@@ -11,6 +11,10 @@ Massive thanks to CMD, Kano, Jymnasium, Mekalb, Lucky and Bender for all the ide
 
 Changelog
 
+12/07/2024
+
+Reworked Uber Sin, added Javs to a bunch of the stashes for level 1. Minor other changes.
+
 04/03/2024
 
 Re-added Pacifist Sorc Stash - a fun stupid run.
