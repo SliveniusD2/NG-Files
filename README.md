@@ -11,6 +11,12 @@ Massive thanks to CMD, Kano, Jymnasium, Mekalb, Lucky and Bender for all the ide
 
 Changelog
 
+17/08/2024
+
+Swapped Level 25 fcr belt for lower level fcr belt Normal Paladin Stash
+Updated Druid Normal stash
+
+
 12/07/2024
 
 Reworked Uber Sin, added Javs to a bunch of the stashes for level 1. Minor other changes.
