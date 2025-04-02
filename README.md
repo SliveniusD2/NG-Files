@@ -1,7 +1,7 @@
 # NG-Files
 D2R NG+ Shared stash files
 
-IMPORTANT - ALL STASHES ARE LEGIT FINALLY! PLEASE ENSURE YOU ARE USING THE ZIP FILE FROM 14/02/2024.
+IMPORTANT - ALL STASHES ARE LEGIT FINALLY! PLEASE ENSURE YOU ARE USING THE ZIP FILE FROM 02/04/2024.
 
 To use these simply unzip them and then copy your chosen NG+ setup into your D2R Save Directory (Default Pathway is "User/Saved Games/Diablo II Resurrected")
 
@@ -10,6 +10,11 @@ Please make sure that if you have any items in your shared stash you want to kee
 Massive thanks to CMD, Kano, Jymnasium, Mekalb, Lucky and Bender for all the ideas, testing and support you guys have put in to make these stashes as good as they are.
 
 Changelog
+
+02/04/2024 (2nd April)
+
+Updated stashes after Jym found a bunch of illegitimate items. Jym provided updated Normal, Hell & Uber Zon, Sorc and Paladin Stashes.
+
 
 17/08/2024
 
