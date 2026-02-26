@@ -1,7 +1,7 @@
 # NG-Files
 D2R NG+ Shared stash files
 
-IMPORTANT - ALL STASHES ARE LEGIT FINALLY! PLEASE ENSURE YOU ARE USING THE ZIP FILE FROM 02/04/2024.
+Reign of the warlock has forced a change to how the stashes are done. The only up to date stash is Warlock.
 
 To use these simply unzip them and then copy your chosen NG+ setup into your D2R Save Directory (Default Pathway is "User/Saved Games/Diablo II Resurrected")
 
@@ -10,6 +10,11 @@ Please make sure that if you have any items in your shared stash you want to kee
 Massive thanks to CMD, Kano, Jymnasium, Mekalb, Lucky and Bender for all the ideas, testing and support you guys have put in to make these stashes as good as they are.
 
 Changelog
+
+26/02/2026
+
+Created Warlock stash, it is currently an all in one stash (normal, hell, ubers & I guess uber ancients)
+
 
 02/04/2024 (2nd April)
 
