@@ -13,6 +13,10 @@ Massive thanks to CMD, Kano, Jymnasium, Mekalb, Lucky and Bender for all the ide
 
 Changelog
 
+28/02/2026
+
+Updated warlock stash, fixing lvl 30 amulet & added a merc setup for NM CS
+
 26/02/2026
 
 Created Warlock stash, it is currently an all in one stash (normal, hell, ubers & I guess uber ancients)
