@@ -13,9 +13,13 @@ Massive thanks to CMD, Kano, Jymnasium, Mekalb, Lucky and Bender for all the ide
 
 Changelog
 
+01/03/2026
+
+Updated Warlock stash, made sure socketed jewels were properly legitimate.
+
 28/02/2026
 
-Updated warlock stash, fixing lvl 30 amulet & added a merc setup for NM CS
+Updated Warlock stash, fixing lvl 30 amulet & added a merc setup for NM CS
 
 26/02/2026
 
